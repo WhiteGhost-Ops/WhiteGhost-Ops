@@ -16,7 +16,7 @@
 
 ## About
 
-WhiteGhost is a proud member of the legendary AnonOps collective. Operating from the deep web and IRC, we provide a clandestine playground for lone‑wolf hackers who crave anonymity, power, and pure code‑driven freedom.
+It's the legendary AnonOps collective. Operating from the deep web and IRC, we provide a clandestine playground for lone‑wolf hackers who crave anonymity, power, and pure code‑driven freedom.
 
 
 
